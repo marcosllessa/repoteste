@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+import connection
 
 path = 'C:/Troca/gtin/python/nfe/'
 tree = ET.parse(path+'44257887000173.xml')
