@@ -1,6 +1,3 @@
-
-
-
 def conexao():
     import connection
 
