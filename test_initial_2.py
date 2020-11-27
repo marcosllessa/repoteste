@@ -1,4 +1,5 @@
 def conexao():
+    '''Teste de conexão com o BD'''
     import connection
 
     connection = connection.conexao()
