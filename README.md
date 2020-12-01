@@ -1,4 +1,5 @@
 # repoteste
 teste de comunicação com o pycharm
 Teste de tag
-v2.1
+v2.2
+Inserido pptx e docx
